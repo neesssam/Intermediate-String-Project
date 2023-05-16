@@ -1,4 +1,5 @@
-**Intermediate String Project**
+# Intermediate String Project
+
 This project is an intermediate level program. It is a Java-based library that provides various functionalities to manipulate and analyze strings. Features include case reversal, character count, string reversal, breaking down a string into separate lines per word, word count, character count excluding spaces, average word length calculation, vowel count, substring count, and palindrome detection
 
 **Expected Output:** 
